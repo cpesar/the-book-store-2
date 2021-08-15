@@ -6,6 +6,7 @@
   ## Description
   The Book Store is a book search engine. A user is able to create an account, login then search for and save books. The Book Store utilizes the Google Book Search API. This app was built using the MERN stack with a React front-end and utilizes Apollo Server and GraphQL queries and mutations. The live application has been deployed to Heroku.
   <br />
+  <br />[The Book Store](https://the-book-store-2.herokuapp.com/)
   
   
   
